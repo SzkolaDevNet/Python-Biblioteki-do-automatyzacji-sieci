@@ -1,6 +1,16 @@
 # Python-Biblioteki-do-automatyzacji-sieci
 Repozytorium zawiera zestaw linków do różnych bibliotek języka Python, które przydają się w programowaniu automatyzacji sieci i nie tylko.
 
+---
+
+**Chcesz wiedzieć więcej o automatyzacji sieci?**
+
+**Wpadnij na portal [Szkoła DevNet](https://szkoladevnet.pl)!**
+
+**Bądź na bieżąco i zapisz się do naszego [newslettera](https://szkoladevnet.pl/sekrety), a w prezencie otrzymasz darmowy poradnik "7 SEKRETÓW UDANEGO PROJEKTU AUTOMATYZACJI"**
+
+---
+
 Jeżeli znasz jakieś biblioteki, które warto uwzględnić na tej liście wyślij do mnie maila, lub zgłoś ją jako pull request.
 
 Biblioteki ogólne
