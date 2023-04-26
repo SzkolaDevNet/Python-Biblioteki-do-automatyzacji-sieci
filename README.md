@@ -3,9 +3,6 @@ Repozytorium zawiera zestaw linków do różnych bibliotek języka Python, któr
 
 Jeżeli znasz jakieś biblioteki, które warto uwzględnić na tej liście wyślij do mnie maila, lub zgłoś ją jako pull request.
 
-Automatyzacja
--------------
-
 Biblioteki ogólne
 -----------------
 
