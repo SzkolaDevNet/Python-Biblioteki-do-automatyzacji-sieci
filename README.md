@@ -106,3 +106,9 @@ Biblioteki do operowania numeracją telefoniczną
 
 -   [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - biblioteka służąca do analizy, normalizacji i weryfikacji numerów telefonów z różnych krajów.
 -   [pycountry](https://github.com/flyingcircusio/pycountry) - biblioteka służąca do pobierania informacji o krajach, w tym kodów krajowych i numeracji telefonicznej.
+
+
+Inne biblioteki
+---------------
+
+- [Diagrams](https://diagrams.mingrammer.com) - biblioteka umożliwiająca rysowanie diagramów i schematów sieci czy rozwiązań chmurowych w języku Python, niezwykle przydatna gdy automatyzujemy tworzenie i utrzymanie dokumentacji.
