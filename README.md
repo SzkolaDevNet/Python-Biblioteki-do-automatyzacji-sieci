@@ -38,6 +38,8 @@ Biblioteki do zarządzania urządzeniami sieciowymi i parsowania konfiguracji
 -   [pexpect](https://github.com/pexpect/pexpect) - biblioteka służąca do automatyzacji interakcji z programami działającymi w terminalu, np. z CLI urządzeń sieciowych.
 -   [napalm-ansible](https://github.com/napalm-automation/napalm-ansible) - plugin do Ansible pozwalający na korzystanie z biblioteki NAPALM w celu zarządzania urządzeniami sieciowymi.
 -   [Genie](https://github.com/CiscoTestAutomation/genieparser) - biblioteka służąca do automatyzacji konfiguracji i zarządzania urządzeniami sieciowymi firmy Cisco.
+-   [pyATS](https://developer.cisco.com/docs/pyats/) - narzędzie Cisco do automatyzacji testów
+-   [batfish](https://batfish.org/) - multi-vendor narzędzie do analizy konfiguracji i danych pobieranych z urządzeń sieciowych
 
 
 Biblioteki do analizy danych sieciowych
